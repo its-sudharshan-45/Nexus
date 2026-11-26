@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ NEXUS
+# NEXUS
 
 ### Enterprise-Grade Retrieval Augmented Generation Platform
 
